@@ -1,0 +1,12 @@
+{
+    "description": "I'd like to use this domain for my website",
+    "repo": "https://github.com/xnotking/xnotking.github.io",
+    "owner": {
+        "username": "xNotKing",
+        "email": "xnotking1@gmail.com",
+        "twitter": "xnotkingdev_"
+    },
+    "record": {
+        "CNAME": "xnotking.github.io"
+    }
+} 
